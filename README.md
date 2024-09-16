@@ -1,4 +1,4 @@
-# ResponsibleAI# Responsible AI (RAI)
+# Responsible AI (RAI)
 
 ## Overview
 
